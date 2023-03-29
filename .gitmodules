@@ -1,3 +1,6 @@
 [submodule "MapsIndoorsGettingStarted-Google"]
 	path = MapsIndoorsGettingStarted-Google
 	url = https://github.com/MapsPeople/MapsIndoorsGettingStarted-Google.git
+[submodule "MapsIndoorsGettingStarted-Mapbox"]
+	path = MapsIndoorsGettingStarted-Mapbox
+	url = https://github.com/MapsPeople/MapsIndoorsGettingStarted-Mapbox.git
