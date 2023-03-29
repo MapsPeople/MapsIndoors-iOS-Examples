@@ -4,3 +4,6 @@
 [submodule "MapsIndoorsGettingStarted-Mapbox"]
 	path = MapsIndoorsGettingStarted-Mapbox
 	url = https://github.com/MapsPeople/MapsIndoorsGettingStarted-Mapbox.git
+[submodule "MapsIndoorsTemplate-iOS-v4"]
+	path = MapsIndoorsTemplate-iOS-v4
+	url = https://github.com/MapsPeople/MapsIndoorsTemplate-iOS-v4.git
